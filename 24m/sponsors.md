@@ -9,7 +9,7 @@ We gratefully acknowledge the following sponsors that make **#MRITogether 2024**
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether@esmrmb.org).
 
-<!-- ## Platinum Sponsors -->
+## Platinum Sponsors
 <!-- <div id="grid-containter">
         <div class="card-grid">
           <img class="front_platinum" src="images/sponsors/HQ_Imaging.png" alt="HQ Imaging Logo">
@@ -33,8 +33,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
         
     </script> -->
  
-
-<!-- [![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](//hq-imaging.com/) -->
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](//hq-imaging.com/)
 
 ## Gold Sponsors
 <!-- <div id="grid-containter">
@@ -57,19 +56,15 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 [![Deepspin logo](images/sponsors/DEEPSPIN_logo.png){:.sponsor_gold}](https://www.deepspin.io/)
 
-<!-- [![CMRI logo](images/sponsors/CMRI-logo-01.png){:.sponsor_gold}](//qmri.com)
-[![Siemens logo](images/sponsors/Siemens_logo-01.png){:.sponsor_gold}](https://www.siemens-healthineers.com/)
-
 <br>
 
 ## Silver Sponsors
-[![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
-[![Guerbet logo](images/sponsors/guerbet.jpg){:.sponsor_silver}](https://www.guerbet.com/)
+[![Resonint logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 
 
 <br>
 
-### Individual Sponsors
+<!-- ### Individual Sponsors
 We greatly appreciate the contributions from our donating attendees
 * Lars Kasper
 * Aad van der Lugt
