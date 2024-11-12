@@ -55,7 +55,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 </script> -->
 
 [![Deepspin logo](images/sponsors/DEEPSPIN_logo.png){:.sponsor_gold}](https://www.deepspin.io/)
-[![Orbem AI logo](images/sponsors/orbem_ai_logo_linkedin.jfif){:.sponsor_gold}](https://orbem.ai/)
+[![Orbem AI logo](images/sponsors/orbem_logo_large_1024.png){:.sponsor_gold}](https://orbem.ai/)
 <br>
 
 ## Silver Sponsors
