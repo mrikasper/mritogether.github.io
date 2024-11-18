@@ -97,6 +97,6 @@ year: 2024
 
 ### **Sustainable volunteering** (13:00 - 15:00 UTC)
 #### **Chuan-Peng Hu**: Promoting Open Science in a Developing Country
-#### **Sina Mansour and Johanna Bayer **: Open Science Volunteering and Academia: Navigating the Challenges and Rewards
+#### **Sina Mansour and Johanna Bayer**: Open Science Volunteering and Academia: Navigating the Challenges and Rewards
 #### **Silvia Maier**: Steering your life and projects wisely – a neuroscience-informed perspective
 #### **Panel Discussion**: How do we go from here?
