@@ -17,4 +17,4 @@ Upon acceptance, presentation format will be Poster Sessions in GatherTown based
 
 Abstracts can be submitted as PDF files, based on a [docx template](https://docs.google.com/document/d/1Hr96AJyqSgXuWjllQhSWlEFUV-TkZWuj/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (max. 2 pages, including figures). Consider writing your abstract as a pitch of your work, otherwise the traditional Background, Methods, Results, Discussion format is welcome. Your figure may also be a graphical abstract. 
 
-**Submission Deadline is 20 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
+**Submission Deadline is 27 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
