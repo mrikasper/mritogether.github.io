@@ -15,6 +15,13 @@ Submission acceptance will be based on scientific integrity and relevance to the
 
 Upon acceptance, presentation format will be Poster Sessions in GatherTown based on 3-5 min recorded videos. Selected abstracts may be presented as proffered abstracts in our Oral Sessions, so please specify the appropriate session category during submission. Videos will also be made available on YouTube, unless you specify otherwise. The best abstracts will receive poster awards (certificates and cash prizes).
 
+Top 5️⃣ wins:
+🥇 150 €
+🥈 100 €
+🥉 75 €
+4️⃣ 50 €
+5️⃣ 25 €
+
 Abstracts can be submitted as PDF files, based on a [docx template](https://docs.google.com/document/d/1Hr96AJyqSgXuWjllQhSWlEFUV-TkZWuj/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (max. 2 pages, including figures). Consider writing your abstract as a pitch of your work, otherwise the traditional Background, Methods, Results, Discussion format is welcome. Your figure may also be a graphical abstract. 
 
 **Submission Deadline is 27 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
