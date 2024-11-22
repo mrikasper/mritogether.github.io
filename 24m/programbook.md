@@ -24,9 +24,9 @@ Much of the work toward open and reproducible science has been spearheaded by re
 In this talk I will share my personal experience in developing open-source software tools in the areas of hyperpolarized carbon-13 MRI and for lung MRI.  These are emerging areas being developed by relatively small communities of researchers, which is a unique opportunity to use open science practices to better leverage limited resources. 
 #### **David Mummy**: Raising a Standard: A Framework for 129Xe MRI Multi-Site Data Sharing and Analysis
 Hyperpolarized Xenon MRI is a rapidly growing technique for assessing pulmonary gas exchange. This talk will describe efforts by the Xenon MRI community to establish standards for raw data sharing and analysis in order to directly compare imaging results across sites and to conduct multi-site clinical trials. 
+#### **TBA**: TBA
 #### **Charles McGrath**: The Road to developing the CMRsim framework: more than just MR physics
 The first part of the talk will give a brief introduction to CMRsim as well as the specific requirements of cardiac MR simulation that motivated the development. The remainder will focus on the lessons learned along the way pertaining to open-source development as well as the current and future obstacles for open-source MR simulation.
-#### **TBA**: TBA
 <br>
 <br>
 
