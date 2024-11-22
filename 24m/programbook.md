@@ -6,6 +6,7 @@ year: 2024
 ---
 ## Day 1: December 3th
 ### **Bridging the educational gap** (15:00 - 17:00 UTC)
+This session is about how we can share knowledge about MRI scanners openly, including how to build an MRI scanner. We also want to take a look at how a network of open science collaborators and specialists can be successfully created.
 #### **MRI Together**: Opening MRI Together 2024
 #### **Jonathan Martin**: Disseminating Open-Source Software Tools for Robust, Smart, and Accessible MRI
 In this talk I will discuss applications of AI techniques to preclinical and low-field MRI, and discuss open-source software packages and publishing methods. I will also review my own experiences in building open-source low field scanners. 
@@ -16,6 +17,7 @@ In this talk I will discuss applications of AI techniques to preclinical and low
 <br>
 
 ### **New Kids on the Block - open science in emerging MR applications (embodying open MRI)** (21:00-23:00 UTC)
+Much of the work toward open and reproducible science has been spearheaded by researchers working in the brain space. Newer MRI applications, such as body and hyperpolarized MRI are less well represented in the open MRI community. In this session, we will discuss how lessons learned from open and reproducible brain MRI can be adopted in other areas.
 #### **Peder Larson**: Open-source software tools for emerging applications of hyperpolarized MRI and lung MRI
 In this talk I will share my personal experience in developing open-source software tools in the areas of hyperpolarized carbon-13 MRI and for lung MRI.  These are emerging areas being developed by relatively small communities of researchers, which is a unique opportunity to use open science practices to better leverage limited resources. 
 #### **David Mummy**: Raising a Standard: A Framework for 129Xe MRI Multi-Site Data Sharing and Analysis
@@ -28,6 +30,7 @@ The first part of the talk will give a brief introduction to CMRsim as well as t
 
 ## Day 2: December 4th
 ### **The funding landscape for open source projects** (3:00 - 5:00 UTC)
+How can I find funds to support my open-source project? To answer this and other related questions, in this session, we will discuss the funding landscape for scientific software development, which is crucial for software maintenance, and invite developers to share their experience with commercial software production. Moreover, we will cover topics on data sharing initiatives. 
 #### **Hai-Yang Geng**: An Introduction to Computational Psychiatry: from research to application
 An interdisciplinary education system is being to train computational psychiatry experts who can apply quantitative methods to clinical problems. We envision an integrated computational psychiatry system that offers AI-aided, evidence-based assessment and intervention tools through digital health platforms, connecting researchers, clinicians, and patients to enhance online mental health services. The combination of big data from wearable devices and advanced AI technologies will advance precision psychiatry, enabling early risk screening and the development of targeted individualized treatments.
 #### **Lu-Lu Jiang**: Promoting Open Data Best Practices from a Data Repository Perspective
@@ -39,6 +42,7 @@ Open source tool development is crucial for reproducible science, but may not al
 <br>
 
 ### **Transferable open MRI skills: from academia to industry** (9:00 - 11:00 UTC)
+This session will feature distinguished speakers who have successfully transitioned between academia and industry. They will share their insights on career decisions and highlight how their expertise in MRI research has been pivotal in their professional journeys. 
 #### **Ira Ktena**: Developing health AI models that are safe for the world
 This talk will cover considerations that arise when transitioning from developing ML models for narrow research applications to models that scale and perform well across geographies and populations. The talk will also cover why industry researchers should engage with academics to ensure reproducibility and build trust in new technologies.
 #### **Kevin Aquino**: Transferrable skills in the startup space
@@ -50,6 +54,7 @@ Fun fact: Han started his first industrial job during his 21-day stay in a quara
 <br>
 
 ### **Reproducibility crisis revisited** (17:00-19:00 UTC)
+In the realm of MRI, particularly in neuroimaging, the reproducibility crisis has emerged as a pivotal challenge, casting significant doubts on the reliability of many scientific findings. This session aims to delve deep into the critical issues surrounding replication failures in brain imaging studies and explore strategic pathways towards enhancing the robustness and validity of research outcomes.
 #### **Zhi-Yi Chen**: Population diversity flaw in the AI-empowered neuroimaging studies and generalization failure
 Though the immense potentials and unprecedented increases in the AI-empowered neuroimaging-based studies, particularly in diagnostics, global population diversity in these computational models are highly underrepresented. Embracing AI techniques in the  neuroimaging studies should be greatly welcomed, but as a result, sampling inequalities from AI model training and testing biases from AI model deployments substantially limited their real-world practices and ensuing benefits.
 #### **Stephanie Noble**: Mapping the Landscape of Effect Sizes in fMRI: Insights from Large Publicly Available Dataset
@@ -60,6 +65,7 @@ Visual and semantic processing has been studied using both hypothesis-driven and
 <br>
 
 ### **Cutting-edge MRI toolbox exhibition: Live demos and interactive sessions (Americas)** (23:00-01:00 UTC)
+In this session, we will showcase innovative MRI data processing tools in a dynamic and interactive environment. Whether you've are interested in the developement of a novel algorithm, software package, or workflow, this session is your platform to learn more about it!
 #### **Thomas Küstner**: MERLIN - Machine Enhanced Reconstruction Learning and Interpretation Networks
 Machine Learning (ML) methods have evolved tremendously during the last decade with a number of backends supporting the development. However, support for high-dimensional and complex-valued data processing is often limited. Therefore, we developed a Machine Enhanced Reconstruction Learning and Interpretation Networks (MERLIN) framework that seamlessly integrates with existing ML solutions (Tensorflow/Keras and Pytorch) and complements them by high-dimensional, complex-valued and MR-specific operators, layers, and data pipelines.
 #### **Abood Bdaiwi**: 129Xe Image Processing Pipeline (XIPline): An Open-Source, Graphical User Interface Application for the Analysis of Hyperpolarized 129Xe MRI
@@ -73,6 +79,7 @@ MIRTorch, developed at the University of Michigan, focuses on reimplementing bas
 
 ## Day 3: December 5th
 ### **Open science - Standards for sharing data and code (Asia/Australia)** (05:00 - 07:00 UTC)
+These days, it's common practice to share code and data via open repositories. These approaches could provide some difficulties, though. Patient data sharing repositories may differ due to variations in country ethical legislation. Furthermore, some research labs don't have a code repository culture. In this session, we will review some different possibilities for code and data sharing and the importance of a culture of code sharing. 
 #### **Steffen Bollmann**: Neurodesk – reproducible Neuroimaging for everyone, anywhere
 Neurodesk is a platform for making reproducible Neuroimaging accessible to everyone. In this talk, he will give a quick overview of what Neurodesk is, how it works, how it supports open data analyses and I will briefly show our latest developments on running Neurodesk containers on the scanner through Open Recon.
 #### **Eberechi Wogu**: Driving FAIR Brain Data in Africa: Challenges and Opportunities.
@@ -81,6 +88,7 @@ This talk highlights the experiences of researchers from the African Brain Data 
 <br>
 
 ### **Tools of the trade - tutorials and essential open science software (east coast USA/Europe)** (11:00 - 13:00 UTC)
+This session will feature hands-on tutorials of essential open science software!
 #### **Korbinian Eckstein**: Using VS code effectively and cool extensions
 In this talk, I will share practical tips for effectively using Visual Studio Code, a versatile code editor that can greatly enhance productivity. I will highlight several useful extensions (git, AI autocomplete, image viewer, formatting, …). Attendees will learn how to customize the environment to suit their specific needs and might find some new favourite extensions.
 #### **Thuy Dao**: Data standardisation using BIDS on Neurodesk
@@ -90,6 +98,7 @@ This talk will cover best practices for open science in MR research, highlightin
 <br>
 
 ### **At second sight - open science projects that succeeded at their own pace** (19:00-21:00 UTC)
+Despite us giving all our heart, the MR community might not meet our beautifully crafted open science contribution with love at first sight. In this session, we want to hear from developers how they persevered, for example after a slow initial uptake of their contribution, and how they built a user community around it that enabled long-term success and continued development and support.
 #### **Fernanda Hansen**: Connecting theoretical models to brain structure: a physical study of cortical gyrification
 Cortical folding has been of great interest in recent years, but there is a missing link to connect theoretical models to evidence. In this talk, we show what we’ve done so far and how Open Science approaches are important to accomplish more.
 #### **Ting Xu**: Leveraging Data Sharing in Nonhuman Primates to Chart Brain Development in Macaques
@@ -100,6 +109,7 @@ Nonhuman primates (NHPs) serve as essential models in translational neuroscience
 
 ## Day 4 December 6th
 ### **Collaborative coding towards more impactful solutions** (1:00 - 3:00 UTC)
+In this session, we aim to have a hands-on guide to working collaboratively on projects using Git and how to do code review in practice. Finally, we want to introduce concepts common in software development, such as the minimum viable product, that may help interested researchers improve their productivity.
 #### **Chris Rorden**: NiiVue: Modular neuroimaging visualization based on web technologies
 Visualization plays a crucial role in neuroimaging acquisition, processing, inference and dissemination. The AFNI, FSL and FreeSurfer have created competing desktop tools, making it hard for users to transfer skills and data between these frameworks. We have harnessed the collective wisdom of these teams to develop NiiVue using web technologies. This allows a zero-footprint tool that works regardless of device (computer, phone, tablet), operating system, hardware or framework. In addition to traditional desktop use, this software enables innovative edge and cloud-based applications.
 #### **Ashley Stewart**: Building Robust Software with Automation, Containers, and Open Standards
@@ -117,6 +127,7 @@ Essential Tremor (ET) is the most prevalent movement disorder with poorly unders
 <br>
 
 ### **Sustainable volunteering** (13:00 - 15:00 UTC)
+We often commit our time to Open MRI projects with an altruistic streak: the work is voluntary and based on our self-motivation. However, people in open science projects have a day job with other and higher priorities, and because the incentive structure in their career domain doesn’t align with sustainability and collaboration, progress in open science projects is often slow. Here, we want to learn from open science experts as well as other fields of volunteering how to navigate these sometimes conflicting demands and stay happy, healthy and productive in the process.
 #### **Chuan-Peng Hu**: Promoting Open Science in a Developing Country
 In the past seven years, several Chinese early-career researchers and I have been promoting open science among the Chinese-speaking community by initiating a grassroots network — the Chinese Open Science Network (COSN, Jin et al., 2023). In this talk, I will share our stories and the lessons we have learned.
 #### **Sina Mansour**: Open Science Volunteering and Academia: Navigating the Challenges and Rewards
