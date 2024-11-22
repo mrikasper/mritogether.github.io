@@ -7,11 +7,13 @@ year: 2024
 ## Day 1: December 3th
 ### **Bridging the educational gap** (15:00 - 17:00 UTC)
 This session is about how we can share knowledge about MRI scanners openly, including how to build an MRI scanner. We also want to take a look at how a network of open science collaborators and specialists can be successfully created.
-#### **MRI Together**: Opening MRI Together 2024
+#### **MRI Together Organizing Committee**: Opening MRI Together 2024
 #### **Jonathan Martin**: Disseminating Open-Source Software Tools for Robust, Smart, and Accessible MRI
 In this talk I will discuss applications of AI techniques to preclinical and low-field MRI, and discuss open-source software packages and publishing methods. I will also review my own experiences in building open-source low field scanners. 
-#### **TBA**: TBA
-#### **TBA**: TBA
+#### **Jackeline Thairu**: Scan With Me (SWiM): A promising train-the-trainer program tailored for resource-limited settings
+The Scan With Me (SWiM) program is a train-the-trainer initiative developed by the Consortium for Advancement of MRI Education and Research in Africa (CAMERA) to upskill MRI personnel in low- and middle-income countries (LMICs). By combining free-access educational resources, expert lectures, hands-on training, and team-based learning, SWiM equips radiographers with the skills to perform high-quality MRI exams and train others in their facilities. 
+#### **Ethan Dapper**: Training for the future of dementia research: A neuroimaging analysis program in low- and middle-income countries
+CONNExIN (COmprehensive Neuroimaging aNalysis Experience In resource constraiNed settings) is a hybrid initiative led by the Montreal Neurological Institute, McGill University,   and the Consortium for Advancement of MRI Education and Research in Africa (CAMERA). CONNExIN (event.fourwaves.com/connexin) uses RAD-AID’s Teach-Try-Use strategy to advance MRI and PET neuroimaging skills in low- and middle-income countries through seminars and hands-on dementia data analysis.
 
 
 <br>
