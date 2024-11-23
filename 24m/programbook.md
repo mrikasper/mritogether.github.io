@@ -93,12 +93,13 @@ This talk highlights the experiences of researchers from the African Brain Data 
 
 ### **Tools of the trade - tutorials and essential open science software (east coast USA/Europe)** (11:00 - 13:00 UTC)
 This session will feature hands-on tutorials of essential open science software!
-#### **Korbinian Eckstein**: Using VS code effectively and cool extensions
-In this talk, I will share practical tips for effectively using Visual Studio Code, a versatile code editor that can greatly enhance productivity. I will highlight several useful extensions (git, AI autocomplete, image viewer, formatting, …). Attendees will learn how to customize the environment to suit their specific needs and might find some new favourite extensions.
 #### **Thuy Dao**: Data standardisation using BIDS on Neurodesk
 This talk will cover best practices for open science in MR research, highlighting the Brain Imaging Data Structure (BIDS) as a standard for organizing neuroimaging data. We’ll demonstrate how to connect data to Neurodesk, an open platform that improves tool accessibility and reproducibility, and convert it to BIDS format using various tools within Neurodesk.
+#### **Sriranga Kashyap**: Open-source methods for MR image segmentation and registration
+This talk will provide an overview of open-source tools for MR image segmentation and registration with examples for applications to partial coverage brain data (typical at > 7 T). It will highlight widely used tools like ITK-SNAP, ANTs, FSL, AFNI, and Freesurfer whilst also emphasising the value of general-purpose image processing with Python.
+#### **Korbinian Eckstein**: Using VS code effectively and cool extensions
+In this talk, I will share practical tips for effectively using Visual Studio Code, a versatile code editor that can greatly enhance productivity. I will highlight several useful extensions (git, AI autocomplete, image viewer, formatting, …). Attendees will learn how to customize the environment to suit their specific needs and might find some new favourite extensions.
 #### **TBA**: TBA
-<br>
 <br>
 
 ### **At second sight - open science projects that succeeded at their own pace** (19:00-21:00 UTC)
