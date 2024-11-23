@@ -82,11 +82,13 @@ MIRTorch, developed at the University of Michigan, focuses on reimplementing bas
 ## Day 3: December 5th
 ### **Open science - Standards for sharing data and code (Asia/Australia)** (05:00 - 07:00 UTC)
 These days, it's common practice to share code and data via open repositories. These approaches could provide some difficulties, though. Patient data sharing repositories may differ due to variations in country ethical legislation. Furthermore, some research labs don't have a code repository culture. In this session, we will review some different possibilities for code and data sharing and the importance of a culture of code sharing. 
+#### **Nicole Schoer**: Accelerating Mental Health Research: Open Science and Data Sharing using the CAMH BrainHealth Databank
+In this presentation, we will explore how the CAMH BrainHealth Databank (BHDB) is revolutionizing mental health research through its commitment to open science and data sharing. By securely collecting and making diverse data available for researchers, the BHDB accelerates the discovery of biological markers, treatments, and prevention strategies for mental illness. This initiative exemplifies how open data governance and ethical practices can foster collaboration and innovation in the global mental health research community.
 #### **Steffen Bollmann**: Neurodesk – reproducible Neuroimaging for everyone, anywhere
 Neurodesk is a platform for making reproducible Neuroimaging accessible to everyone. In this talk, he will give a quick overview of what Neurodesk is, how it works, how it supports open data analyses and I will briefly show our latest developments on running Neurodesk containers on the scanner through Open Recon.
+#### **TBA**: TBA
 #### **Eberechi Wogu**: Driving FAIR Brain Data in Africa: Challenges and Opportunities.
 This talk highlights the experiences of researchers from the African Brain Data Network whose goal is to make African brain data FAIR. It also includes their critical observations as they collected, curated, and shared the first African brain imaging dataset. These observations include the understanding of the importance of FAIR African brain data, the challenges FAIR brain data faces in Africa and the opportunities for growth.
-#### **TBA**: TBA
 <br>
 
 ### **Tools of the trade - tutorials and essential open science software (east coast USA/Europe)** (11:00 - 13:00 UTC)
