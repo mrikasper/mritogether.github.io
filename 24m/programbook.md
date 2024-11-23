@@ -5,7 +5,7 @@ description: Program
 year: 2024
 ---
 # MRITogether24 - "Staying Together"
-This year marks the fourth edition of the workshop since 2021. We will focus on "Staying Together", i.e., how to make open MRI efforts sustainable and long-lasting, overcoming challenges with respect to funding, community building, democratizing contributions, passing the torch between developer generations, and managing the overall challenges of mostly volunteer work. Of course, we will also highlight the latest open source tools for acquisition, reconstruction and analysis developed by the MR community.
+This year marks the fourth edition of the workshop since 2021 with a focus on **"Staying together: Long-term support and development of open MRI projects"**. We want to discuss how to make open MRI efforts sustainable and long-lasting, overcome challenges with respect to funding, community building and democratizing contributions, as well as passing the torch between developer generations, and managing the overall challenges of mostly volunteer work. Of course, we will also highlight the latest open source tools for acquisition, reconstruction and analysis developed by the MR community.
 
 ## Day 1: December 3th
 ### **Bridging the educational gap** (15:00 - 17:00 UTC) 
