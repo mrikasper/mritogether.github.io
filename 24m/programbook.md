@@ -4,8 +4,11 @@ layout: default
 description: Program
 year: 2024
 ---
+# MRITogether24 - "Staying Together"
+This year marks the fourth edition of the workshop since 2021 with a focus on **"Staying together: Long-term support and development of open MRI projects"**. We want to discuss how to make open MRI efforts sustainable and long-lasting, overcome challenges with respect to funding, community building and democratizing contributions, as well as passing the torch between developer generations, and managing the overall challenges of mostly volunteer work. Of course, we will also highlight the latest open source tools for acquisition, reconstruction and analysis developed by the MR community.
+
 ## Day 1: December 3th
-### **Bridging the educational gap** (15:00 - 17:00 UTC)
+### **Bridging the educational gap** (15:00 - 17:00 UTC) 
 This session is about how we can share knowledge about MRI scanners openly, including how to build an MRI scanner. We also want to take a look at how a network of open science collaborators and specialists can be successfully created.
 #### **MRI Together Organizing Committee**: Opening MRI Together 2024
 #### **Jonathan Martin**: Disseminating Open-Source Software Tools for Robust, Smart, and Accessible MRI
