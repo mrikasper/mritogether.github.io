@@ -126,6 +126,8 @@ Essential Tremor (ET) is the most prevalent movement disorder with poorly unders
 <br>
 
 ### **MRI Together 2024 Highlights** (6:00 - 8:00 UTC)
+This session will highlight the latest inspiring work of our community in the open MRI domain: tools that enable open science, reproducibility, and sustainability in MR research, as well as best practices for a completely open pipeline (from data acquisition to publication). We will hear from the Open Science Abstract Awardees at the recent ESMRMB conference 2024 in Barcelona, and give the stage to the finalists of our **MRITogether24 Poster Awards**, concluding with the award ceremony.
+
 #### **TBA**: TBA
 
 <br>
