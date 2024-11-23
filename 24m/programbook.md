@@ -106,6 +106,8 @@ In this talk, I will share practical tips for effectively using Visual Studio Co
 Despite us giving all our heart, the MR community might not meet our beautifully crafted open science contribution with love at first sight. In this session, we want to hear from developers how they persevered, for example after a slow initial uptake of their contribution, and how they built a user community around it that enabled long-term success and continued development and support.
 #### **Fernanda Hansen**: Connecting theoretical models to brain structure: a physical study of cortical gyrification
 Cortical folding has been of great interest in recent years, but there is a missing link to connect theoretical models to evidence. In this talk, we show what we’ve done so far and how Open Science approaches are important to accomplish more.
+#### **Yaroslav O. Halchenko**: The Roads to BIDS
+Introduction to Brain Imaging Data Structure (BIDS) standard, how it came about, who is developing it, and what principles and procedures propell it forward.
 #### **Ting Xu**: Leveraging Data Sharing in Nonhuman Primates to Chart Brain Development in Macaques
 Nonhuman primates (NHPs) serve as essential models in translational neuroscience. However, the small sample sizes in many NHP imaging studies limit cross-species comparisons with large-scale human brain data. In this presentation, I will introduce the Macaque Charts project, which uses over 1,000 MRI datasets from the PRIMatE Data Exchange (PRIME-DE) consortium to map lifespan brain trajectories in macaques.
 #### **TBA**: TBA
