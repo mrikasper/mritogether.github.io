@@ -55,7 +55,7 @@ While the transition to “industry” may appear daunting, the startup world ca
 #### **Han Peng**: Hopping through domain walls, a physicist's perspective
 Han will share his journey of navigating through the field of physics and AI, and his personal experience in work and life in academia and industrial positions as an international scholar.
 Fun fact: Han started his first industrial job during his 21-day stay in a quarantine hotel in Beijing in 2021.
-#### **TBA**: TBA
+#### **Jason Skinner**: TBA
 <br>
 
 ### **Reproducibility crisis revisited** (17:00-19:00 UTC)
@@ -126,7 +126,8 @@ Visualization plays a crucial role in neuroimaging acquisition, processing, infe
 Transparency and reproducibility in scientific software development are critical to open science. This talk will discuss strategies for automatically testing and evaluating workflows using GitHub Actions, software containers, and open standards such as the Brain Imaging Data Structure (BIDS). The continuously integrated reconstruction challenge for Quantitative Susceptibility Mapping (QSM-CI) will be presented as an example of how a community-driven project can use these standards to unlock new possibilities in neuroimaging investigations that drive innovation.
 #### **Mary Miedema**: Meeting contributors where they’re at: case studies from Physiopy in making code contribution accessible
 In this talk, I will discuss a range of strategies that have helped new contributors to advance Physiopy's code base, including the organization of codesprints, participation in Google's Summer of Code, and the ongoing compilation of contribution standards and other community coding knowledge.  
-
+#### **Qing Wang**: Reproducibility of cerebellar involvement as quantified by consensus structural MRI biomarkers in advanced essential tremor
+Essential Tremor (ET) is the most prevalent movement disorder with poorly understood etiology. We pre-registered our study, tested the hypothesis of cerebellar involvement through three types of neuroimaging biomarkers and further assessed the impacts of statistical models and cerebellar segmentation pipelines on the outcomes. Results showed a lack of replicability of literature findings. This study shows that current estimation of cerebellar involvement in ET is largely inflated and emphasizes the importance of sensitivity analysis in biological inferences.
 <br>
 
 ### **MRI Together 2024 Highlights** (6:00 - 8:00 UTC)
