@@ -15,7 +15,7 @@ This session is about how we can share knowledge about MRI scanners openly, incl
 In this talk I will discuss applications of AI techniques to preclinical and low-field MRI, and discuss open-source software packages and publishing methods. I will also review my own experiences in building open-source low field scanners. 
 #### **Jackeline Thairu**: Scan With Me (SWiM): A promising train-the-trainer program tailored for resource-limited settings
 The Scan With Me (SWiM) program is a train-the-trainer initiative developed by the Consortium for Advancement of MRI Education and Research in Africa (CAMERA) to upskill MRI personnel in low- and middle-income countries (LMICs). By combining free-access educational resources, expert lectures, hands-on training, and team-based learning, SWiM equips radiographers with the skills to perform high-quality MRI exams and train others in their facilities. 
-#### **Ethan Dapper**: Training for the future of dementia research: A neuroimaging analysis program in low- and middle-income countries
+#### **Ethan Draper**: Training for the future of dementia research: A neuroimaging analysis program in low- and middle-income countries
 CONNExIN (COmprehensive Neuroimaging aNalysis Experience In resource constraiNed settings) is a hybrid initiative led by the Montreal Neurological Institute, McGill University,   and the Consortium for Advancement of MRI Education and Research in Africa (CAMERA). CONNExIN (event.fourwaves.com/connexin) uses RAD-AID’s Teach-Try-Use strategy to advance MRI and PET neuroimaging skills in low- and middle-income countries through seminars and hands-on dementia data analysis.
 
 
@@ -27,7 +27,8 @@ Much of the work toward open and reproducible science has been spearheaded by re
 In this talk I will share my personal experience in developing open-source software tools in the areas of hyperpolarized carbon-13 MRI and for lung MRI.  These are emerging areas being developed by relatively small communities of researchers, which is a unique opportunity to use open science practices to better leverage limited resources. 
 #### **David Mummy**: Raising a Standard: A Framework for 129Xe MRI Multi-Site Data Sharing and Analysis
 Hyperpolarized Xenon MRI is a rapidly growing technique for assessing pulmonary gas exchange. This talk will describe efforts by the Xenon MRI community to establish standards for raw data sharing and analysis in order to directly compare imaging results across sites and to conduct multi-site clinical trials. 
-#### **TBA**: TBA
+#### **Anna Caroli**: Renal MRI initiatives committed to open science: RENALMRI.org & RESPECT
+In recent years, the clinical interest in renal MRI has accelerated research and development and led to a growing excitement within an emerging multidisciplinary community. The RENALMRI.org community has developed multiple open access resources, that are made available through the renalmri.org website and are expected to be expanded over the next years. Among international renal MRI projects, RESPECT is devoted to the harmonisation and technical validation of a standardised multiparametric renal MRI protocol for personalised CKD management. 
 #### **Charles McGrath**: The Road to developing the CMRsim framework: more than just MR physics
 The first part of the talk will give a brief introduction to CMRsim as well as the specific requirements of cardiac MR simulation that motivated the development. The remainder will focus on the lessons learned along the way pertaining to open-source development as well as the current and future obstacles for open-source MR simulation.
 <br>
@@ -55,7 +56,8 @@ While the transition to “industry” may appear daunting, the startup world ca
 #### **Han Peng**: Hopping through domain walls, a physicist's perspective
 Han will share his journey of navigating through the field of physics and AI, and his personal experience in work and life in academia and industrial positions as an international scholar.
 Fun fact: Han started his first industrial job during his 21-day stay in a quarantine hotel in Beijing in 2021.
-#### **Jason Skinner**: TBA
+#### **Jason Skinner**: Industrializing MRI: from preclinical to millions of scans at record-breaking throughput
+In this talk I’ll share my academia to industry adventure, the realities of start-up and scale-up life, and reflect on which skills perspectives from academia I could leverage and which I had to transform or adapt.
 <br>
 
 ### **Reproducibility crisis revisited** (17:00-19:00 UTC)
