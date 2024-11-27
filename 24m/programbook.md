@@ -56,7 +56,7 @@ While the transition to “industry” may appear daunting, the startup world ca
 #### **Han Peng**: Hopping through domain walls, a physicist's perspective
 Han will share his journey of navigating through the field of physics and AI, and his personal experience in work and life in academia and industrial positions as an international scholar.
 Fun fact: Han started his first industrial job during his 21-day stay in a quarantine hotel in Beijing in 2021.
-#### **Jason Skinner**: MRI at scaleIndustrializing MRI: from preclinical to millions of scans at record-breaking throughput
+#### **Jason Skinner**: Industrializing MRI: from preclinical to millions of scans at record-breaking throughput
 In this talk I’ll share my academia to industry adventure, the realities of start-up and scale-up life, and reflect on which skills perspectives from academia I could leverage and which I had to transform or adapt.
 <br>
 
