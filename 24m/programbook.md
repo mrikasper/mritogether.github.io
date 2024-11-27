@@ -113,9 +113,8 @@ Cortical folding has been of great interest in recent years, but there is a miss
 Introduction to Brain Imaging Data Structure (BIDS) standard, how it came about, who is developing it, and what principles and procedures propell it forward.
 #### **Ting Xu**: Leveraging Data Sharing in Nonhuman Primates to Chart Brain Development in Macaques
 Nonhuman primates (NHPs) serve as essential models in translational neuroscience. However, the small sample sizes in many NHP imaging studies limit cross-species comparisons with large-scale human brain data. In this presentation, I will introduce the Macaque Charts project, which uses over 1,000 MRI datasets from the PRIMatE Data Exchange (PRIME-DE) consortium to map lifespan brain trajectories in macaques.
-#### **Martin Uecker and Andreas Tille**: Open Science and Free Software
-This talk will focus on BART as a package within the Debian Med Pure Blend, i.e., the micro and macro view on how to develop, maintain and sustain an influential blend of the Debian distribution for the open MRI community.
-
+#### **Martin Uecker and Andreas Tille**: Open Science and Free Software: Experience from BART and Debian
+In this joint talk, we will talk about our experience maintaining scientific software. We will discuss our experience with the BART project and the larger DebianMed initiative.
 <br>
 
 ## Day 4 December 6th
